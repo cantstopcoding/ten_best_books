@@ -1,6 +1,6 @@
 # TenBestBooks
 
-Get the summaries of the 10 best books, that were chosen by the 125 famous authors!
+The user receives a list of the 10 best books chosen by 125 famous authors "which includes King, David Foster Wallace, Peter Carey, Kate Atkinson, Tom Wolfe, Carl Hiaasen, Norman Mailer, Annie Proulx, and more." Upon receiving the list the user will be asked which book he he wants a summary of. After getting the summary, the user will be asked if he wants to view the list of books again or exit the program.
 
 ## Installation
 
