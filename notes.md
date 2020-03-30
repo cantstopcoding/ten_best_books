@@ -4,4 +4,10 @@
 
 
 - user sees list of 10 greatest books
-- user is asked which book they want to see the summary of
+- user is asked which book they want to see a summary of
+- user sees summary of the book
+
+Classes 
+    - Book
+    - CLI
+    - Scraper
